@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">天气</string>
+    <string name="add_city">添加城市</string>
+    <string name="search_city">搜索城市（中文/拼音）</string>
+    <string name="all_city">全部城市</string>
+    <string name="top_city">热门城市</string>
+    <string name="city_none">没有找到匹配的城市</string>
+    <string name="skip">跳过</string>
+    <string name="remain">剩余</string>
+    <string name="sec">秒</string>
+    <string name="splash_start">开始使用</string>
+    <string name="hint_max_city">添加的城市数量已经超过上限！</string>
+    <string name="hint_exist_city">添加的城市已经存在！</string>
+    <string name="hint_success_city">添加成功！</string>
+    <string name="manage_city">管理城市</string>
+    <string name="setting">设置</string>
+    <string name="nano_city">暂无添加城市</string>
+    <string name="shushidu">舒适度</string>
+    <string name="hum">空气湿度</string>
+    <string name="zero">0</string>
+    <string name="_100">100</string>
+    <string name="fxfl">风向风力</string>
+    <string name="wind_dir">风向</string>
+    <string name="wind_sc">风力</string>
+    <string name="njd">能见度</string>
+    <string name="cloud">云量</string>
+
+</resources>
